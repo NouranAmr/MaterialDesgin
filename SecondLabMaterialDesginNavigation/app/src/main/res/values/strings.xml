@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SecondLabMaterialDesginNavigation</string>
+    <string name="importImg">Import Image</string>
+    <string name="gallery">Gallery</string>
+    <string name="slideshow">Show Slide</string>
+    <string name="tools">Tools</string>
+
+    <string name="Myheadertitle">My header title</string>
+</resources>
